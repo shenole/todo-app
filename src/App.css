@@ -1,1 +1,41 @@
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
 
+.container {
+  width: 500px;
+  margin: auto;
+  background-color: #f2f2f2;
+  border-radius: 22px;
+}
+
+.table {
+  width: 100%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  width: 33%;
+}
+
+th.id {
+  width: 5%;
+}
+
+th.todo {
+  width: 80%;
+}
+
+th.button1 {
+  width: 15%;
+}
+
+td.todo {
+  width: 80%;
+}
+
+td.button {
+  width: 15%;
+}
